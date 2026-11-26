@@ -1,0 +1,70 @@
+@import "tailwindcss";
+
+:root {
+  --navy: #0f2c59;
+  --navy-soft: #1a3d6e;
+  --amber: #e8b931;
+  --amber-soft: #fff3c4;
+  --ink: #0d1b2a;
+  --muted: #5c6b7a;
+  --line: #dde3ea;
+  --bg: #f4f6f9;
+  --surface: #ffffff;
+  --background: var(--bg);
+  --foreground: var(--ink);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-body);
+}
+
+body {
+  background:
+    radial-gradient(ellipse 80% 50% at 10% -10%, #fff3c4 0%, transparent 55%),
+    radial-gradient(ellipse 60% 40% at 100% 0%, #d9e6f7 0%, transparent 50%),
+    var(--bg);
+  color: var(--foreground);
+}
+
+.study-card {
+  display: flex;
+  width: 100%;
+  min-height: 360px;
+  height: clamp(360px, 52vh, 520px);
+  padding: 0;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+  text-align: inherit;
+}
+
+.study-card-face {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  width: 100%;
+  border-radius: 20px;
+  overflow: auto;
+  background: #fff;
+  color: #0d1b2a;
+  box-shadow: 0 10px 30px rgba(15, 44, 89, 0.08);
+  border: 1px solid var(--line);
+  animation: study-card-in 0.18s ease;
+}
+
+.study-card-face.is-back {
+  background: #fff8e8;
+}
+
+@keyframes study-card-in {
+  from {
+    opacity: 0.55;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

@@ -1,0 +1,498 @@
+[
+  {
+    "id": "work-01",
+    "pattern": "Let’s get started.",
+    "meaning": "Bắt đầu thôi nào",
+    "examples": [
+      "Let’s get started with the meeting.",
+      "Let’s get started on this project.",
+      "Let’s get started right away."
+    ]
+  },
+  {
+    "id": "work-02",
+    "pattern": "Thanks everyone for joining.",
+    "meaning": "Cảm ơn mọi người đã tham gia",
+    "examples": [
+      "Thanks everyone for joining today.",
+      "Thanks everyone for joining the call.",
+      "Thanks everyone for joining this meeting."
+    ]
+  },
+  {
+    "id": "work-03",
+    "pattern": "Today, we’ll discuss…",
+    "meaning": "Hôm nay chúng ta sẽ bàn về",
+    "examples": [
+      "Today, we’ll discuss the new plan.",
+      "Today, we’ll discuss the budget.",
+      "Today, we’ll discuss our goals."
+    ]
+  },
+  {
+    "id": "work-04",
+    "pattern": "The purpose of this meeting is…",
+    "meaning": "Mục đích cuộc họp là",
+    "examples": [
+      "The purpose of this meeting is to review progress.",
+      "The purpose of this meeting is to plan next steps.",
+      "The purpose of this meeting is to solve this issue."
+    ]
+  },
+  {
+    "id": "work-05",
+    "pattern": "Let’s go over the agenda.",
+    "meaning": "Đi qua nội dung chính",
+    "examples": [
+      "Let’s go over the agenda first.",
+      "Let’s go over the agenda quickly.",
+      "Let’s go over the agenda together."
+    ]
+  },
+  {
+    "id": "work-06",
+    "pattern": "I think we should…",
+    "meaning": "Tôi nghĩ chúng ta nên",
+    "examples": [
+      "I think we should start early.",
+      "I think we should change this.",
+      "I think we should discuss this more."
+    ]
+  },
+  {
+    "id": "work-07",
+    "pattern": "In my opinion,…",
+    "meaning": "Theo tôi",
+    "examples": [
+      "In my opinion, this is better.",
+      "In my opinion, we should wait.",
+      "In my opinion, this is risky."
+    ]
+  },
+  {
+    "id": "work-08",
+    "pattern": "From my perspective,…",
+    "meaning": "Từ góc nhìn của tôi",
+    "examples": [
+      "From my perspective, it’s not urgent.",
+      "From my perspective, this works well.",
+      "From my perspective, we need more time."
+    ]
+  },
+  {
+    "id": "work-09",
+    "pattern": "One suggestion could be…",
+    "meaning": "Một đề xuất là",
+    "examples": [
+      "One suggestion could be to simplify this.",
+      "One suggestion could be to delay it.",
+      "One suggestion could be to test first."
+    ]
+  },
+  {
+    "id": "work-10",
+    "pattern": "I believe this will help us…",
+    "meaning": "Tôi tin điều này sẽ giúp",
+    "examples": [
+      "I believe this will help us grow.",
+      "I believe this will help us save time.",
+      "I believe this will help us improve results."
+    ]
+  },
+  {
+    "id": "work-11",
+    "pattern": "I agree with you.",
+    "meaning": "Tôi đồng ý",
+    "examples": [
+      "I agree with you on this.",
+      "I totally agree with you.",
+      "I agree with your idea."
+    ]
+  },
+  {
+    "id": "work-12",
+    "pattern": "That makes sense.",
+    "meaning": "Nghe hợp lý",
+    "examples": [
+      "That makes sense to me.",
+      "That makes sense now.",
+      "That makes sense in this case."
+    ]
+  },
+  {
+    "id": "work-13",
+    "pattern": "I see your point, but…",
+    "meaning": "Tôi hiểu ý bạn, nhưng",
+    "examples": [
+      "I see your point, but I disagree.",
+      "I see your point, but we need more data.",
+      "I see your point, but it’s risky."
+    ]
+  },
+  {
+    "id": "work-14",
+    "pattern": "I’m not sure about that.",
+    "meaning": "Tôi chưa chắc",
+    "examples": [
+      "I’m not sure about that idea.",
+      "I’m not sure about the timeline.",
+      "I’m not sure about this plan."
+    ]
+  },
+  {
+    "id": "work-15",
+    "pattern": "I have a different view on this.",
+    "meaning": "Tôi có góc nhìn khác",
+    "examples": [
+      "I have a different view on this issue.",
+      "I have a different view on this plan.",
+      "I have a different view on this approach."
+    ]
+  },
+  {
+    "id": "work-16",
+    "pattern": "Could you clarify that?",
+    "meaning": "Bạn nói rõ hơn được không",
+    "examples": [
+      "Could you clarify that point?",
+      "Could you clarify what you mean?",
+      "Could you clarify the details?"
+    ]
+  },
+  {
+    "id": "work-17",
+    "pattern": "What do you mean by…?",
+    "meaning": "Ý bạn là gì",
+    "examples": [
+      "What do you mean by “urgent”?",
+      "What do you mean by this change?",
+      "What do you mean by that?"
+    ]
+  },
+  {
+    "id": "work-18",
+    "pattern": "Can you give an example?",
+    "meaning": "Cho ví dụ được không",
+    "examples": [
+      "Can you give an example of this?",
+      "Can you give an example here?",
+      "Can you give an example for clarity?"
+    ]
+  },
+  {
+    "id": "work-19",
+    "pattern": "What’s the deadline?",
+    "meaning": "Deadline là khi nào",
+    "examples": [
+      "What’s the deadline for this task?",
+      "What’s the deadline for submission?",
+      "What’s the deadline for this project?"
+    ]
+  },
+  {
+    "id": "work-20",
+    "pattern": "Who is responsible for this?",
+    "meaning": "Ai phụ trách",
+    "examples": [
+      "Who is responsible for this task?",
+      "Who is responsible for this part?",
+      "Who is responsible for this project?"
+    ]
+  },
+  {
+    "id": "work-21",
+    "pattern": "I’ve completed the task.",
+    "meaning": "Tôi đã xong việc",
+    "examples": [
+      "I’ve completed the task already.",
+      "I’ve completed the task today.",
+      "I’ve completed the task as planned."
+    ]
+  },
+  {
+    "id": "work-22",
+    "pattern": "I’m currently working on…",
+    "meaning": "Tôi đang làm",
+    "examples": [
+      "I’m currently working on the report.",
+      "I’m currently working on this issue.",
+      "I’m currently working on a new idea."
+    ]
+  },
+  {
+    "id": "work-23",
+    "pattern": "Here’s a quick update on…",
+    "meaning": "Cập nhật nhanh",
+    "examples": [
+      "Here’s a quick update on the project.",
+      "Here’s a quick update on progress.",
+      "Here’s a quick update on this task."
+    ]
+  },
+  {
+    "id": "work-24",
+    "pattern": "We’ve made good progress on…",
+    "meaning": "Đã tiến triển tốt",
+    "examples": [
+      "We’ve made good progress on this project.",
+      "We’ve made good progress this week.",
+      "We’ve made good progress so far."
+    ]
+  },
+  {
+    "id": "work-25",
+    "pattern": "There’s one issue we need to address.",
+    "meaning": "Có 1 vấn đề cần xử lý",
+    "examples": [
+      "There’s one issue we need to address today.",
+      "There’s one issue we need to fix.",
+      "There’s one issue we should discuss."
+    ]
+  },
+  {
+    "id": "work-26",
+    "pattern": "Can we extend the deadline?",
+    "meaning": "Có thể gia hạn deadline không",
+    "examples": [
+      "Can we extend the deadline by 2 days?",
+      "Can we extend the deadline for this task?",
+      "Can we extend the deadline to next week?"
+    ]
+  },
+  {
+    "id": "work-27",
+    "pattern": "I need more time to finish this.",
+    "meaning": "Tôi cần thêm thời gian",
+    "examples": [
+      "I need more time to finish this report.",
+      "I need more time to complete the task.",
+      "I need more time to review everything."
+    ]
+  },
+  {
+    "id": "work-28",
+    "pattern": "Is it okay if we move this to…?",
+    "meaning": "Có thể dời sang… không",
+    "examples": [
+      "Is it okay if we move this to tomorrow?",
+      "Is it okay if we move this to next week?",
+      "Is it okay if we move this to 3 PM?"
+    ]
+  },
+  {
+    "id": "work-29",
+    "pattern": "I’ll try to finish it by…",
+    "meaning": "Tôi sẽ cố hoàn thành trước…",
+    "examples": [
+      "I’ll try to finish it by today.",
+      "I’ll try to finish it by Friday.",
+      "I’ll try to finish it by end of day."
+    ]
+  },
+  {
+    "id": "work-30",
+    "pattern": "I might need support on this.",
+    "meaning": "Tôi có thể cần hỗ trợ",
+    "examples": [
+      "I might need support on this task.",
+      "I might need support from the team.",
+      "I might need support to finish this."
+    ]
+  },
+  {
+    "id": "work-31",
+    "pattern": "Could you help me with this?",
+    "meaning": "Bạn giúp mình được không",
+    "examples": [
+      "Could you help me with this report?",
+      "Could you help me with this issue?",
+      "Could you help me with this task?"
+    ]
+  },
+  {
+    "id": "work-32",
+    "pattern": "I’d appreciate your support on this.",
+    "meaning": "Mình rất cần hỗ trợ",
+    "examples": [
+      "I’d appreciate your support on this project.",
+      "I’d appreciate your support here.",
+      "I’d appreciate your support with this task."
+    ]
+  },
+  {
+    "id": "work-33",
+    "pattern": "Let’s work on this together.",
+    "meaning": "Cùng làm nhé",
+    "examples": [
+      "Let’s work on this together.",
+      "Let’s work on this as a team.",
+      "Let’s work on this now."
+    ]
+  },
+  {
+    "id": "work-34",
+    "pattern": "Can you take a look at this?",
+    "meaning": "Xem giúp mình",
+    "examples": [
+      "Can you take a look at this file?",
+      "Can you take a look at this report?",
+      "Can you take a look at this issue?"
+    ]
+  },
+  {
+    "id": "work-35",
+    "pattern": "Please let me know your thoughts.",
+    "meaning": "Cho mình xin ý kiến",
+    "examples": [
+      "Please let me know your thoughts on this.",
+      "Please let me know your thoughts when you can.",
+      "Please let me know your thoughts by today."
+    ]
+  },
+  {
+    "id": "work-36",
+    "pattern": "Just a quick reminder…",
+    "meaning": "Nhắc nhẹ",
+    "examples": [
+      "Just a quick reminder about the meeting.",
+      "Just a quick reminder to submit the report.",
+      "Just a quick reminder for tomorrow."
+    ]
+  },
+  {
+    "id": "work-37",
+    "pattern": "I’m following up on…",
+    "meaning": "Tôi đang follow up",
+    "examples": [
+      "I’m following up on the email.",
+      "I’m following up on this request.",
+      "I’m following up on our last discussion."
+    ]
+  },
+  {
+    "id": "work-38",
+    "pattern": "Please find attached…",
+    "meaning": "Đính kèm",
+    "examples": [
+      "Please find attached the report.",
+      "Please find attached the file.",
+      "Please find attached the document."
+    ]
+  },
+  {
+    "id": "work-39",
+    "pattern": "Let me know if you have any questions.",
+    "meaning": "Có gì hỏi nhé",
+    "examples": [
+      "Let me know if you have any questions.",
+      "Let me know if you need help.",
+      "Let me know if anything is unclear."
+    ]
+  },
+  {
+    "id": "work-40",
+    "pattern": "Looking forward to your reply.",
+    "meaning": "Mong phản hồi",
+    "examples": [
+      "Looking forward to your reply soon.",
+      "Looking forward to your feedback.",
+      "Looking forward to hearing from you."
+    ]
+  },
+  {
+    "id": "work-41",
+    "pattern": "Let’s wrap up.",
+    "meaning": "Kết thúc nhé",
+    "examples": [
+      "Let’s wrap up the meeting.",
+      "Let’s wrap up for today.",
+      "Let’s wrap up this discussion."
+    ]
+  },
+  {
+    "id": "work-42",
+    "pattern": "To summarize,…",
+    "meaning": "Tóm lại",
+    "examples": [
+      "To summarize, we need to act fast.",
+      "To summarize, we agreed on this.",
+      "To summarize, here are the key points."
+    ]
+  },
+  {
+    "id": "work-43",
+    "pattern": "Next steps are…",
+    "meaning": "Bước tiếp theo",
+    "examples": [
+      "Next steps are to finalize the plan.",
+      "Next steps are to send the report.",
+      "Next steps are to review everything."
+    ]
+  },
+  {
+    "id": "work-44",
+    "pattern": "Thanks for your time.",
+    "meaning": "Cảm ơn thời gian",
+    "examples": [
+      "Thanks for your time today.",
+      "Thanks for your time and effort.",
+      "Thanks for your time, everyone."
+    ]
+  },
+  {
+    "id": "work-45",
+    "pattern": "Let’s stay in touch.",
+    "meaning": "Giữ liên lạc nhé",
+    "examples": []
+  },
+  {
+    "id": "work-46",
+    "pattern": "That sounds good.",
+    "meaning": "Nghe ổn",
+    "examples": [
+      "That sounds good to me.",
+      "That sounds good for now.",
+      "That sounds good, let’s do it."
+    ]
+  },
+  {
+    "id": "work-47",
+    "pattern": "No worries.",
+    "meaning": "Không sao",
+    "examples": [
+      "No worries, I’ll handle it.",
+      "No worries, take your time.",
+      "No worries, it’s fine."
+    ]
+  },
+  {
+    "id": "work-48",
+    "pattern": "Take your time.",
+    "meaning": "Cứ từ từ",
+    "examples": [
+      "Take your time, no rush.",
+      "Take your time to review it.",
+      "Take your time with this."
+    ]
+  },
+  {
+    "id": "work-49",
+    "pattern": "I’ll get back to you.",
+    "meaning": "Tôi sẽ phản hồi lại",
+    "examples": [
+      "I’ll get back to you soon.",
+      "I’ll get back to you by tomorrow.",
+      "I’ll get back to you after checking."
+    ]
+  },
+  {
+    "id": "work-50",
+    "pattern": "Let me check and confirm.",
+    "meaning": "Để tôi kiểm tra lại",
+    "examples": [
+      "Let me check and confirm.",
+      "Let me check and confirm with the team.",
+      "Let me check and confirm the details."
+    ]
+  }
+]
