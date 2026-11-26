@@ -282,10 +282,10 @@ export function FlashcardApp() {
       setShowHint(false);
       await speak(card.audioId);
       if (cancelled) return;
-      await wait(900);
+      await wait(1400);
       if (cancelled) return;
       setFlipped(true);
-      await wait(1600);
+      await wait(2500);
       if (cancelled) return;
       goNext();
     };
