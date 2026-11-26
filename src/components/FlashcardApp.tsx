@@ -196,8 +196,17 @@ export function FlashcardApp() {
       try {
         await audio.play();
       } catch {
-        // ignore
+        return;
       }
+      await new Promise<void>((resolve) => {
+        const done = () => {
+          audio.removeEventListener("ended", done);
+          audio.removeEventListener("error", done);
+          resolve();
+        };
+        audio.addEventListener("ended", done);
+        audio.addEventListener("error", done);
+      });
     },
     [stopAudio],
   );
@@ -282,10 +291,8 @@ export function FlashcardApp() {
       setShowHint(false);
       await speak(card.audioId);
       if (cancelled) return;
-      await wait(1400);
-      if (cancelled) return;
       setFlipped(true);
-      await wait(2500);
+      await speak(card.audioId);
       if (cancelled) return;
       goNext();
     };
@@ -610,10 +617,6 @@ export function FlashcardApp() {
       )}
     </main>
   );
-}
-
-function wait(ms: number) {
-  return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
 function Centered({ children }: { children: ReactNode }) {
