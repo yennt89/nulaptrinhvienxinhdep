@@ -16,7 +16,7 @@ const displayFont = Fraunces({
 
 export const metadata: Metadata = {
   title: "NLTV Flashcards",
-  description: "Học flashcard  English (mock JSON + MP3)",
+  description: "Học flashcard  English",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

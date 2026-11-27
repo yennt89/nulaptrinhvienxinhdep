@@ -90,7 +90,7 @@ export function FlashcardApp() {
           fetch("/data/vocab_cards.json"),
         ]);
         if (!modulesRes.ok || !workRes.ok || !vocabRes.ok) {
-          throw new Error("Không tải được dữ liệu mock JSON");
+          throw new Error("Không tải được dữ liệu");
         }
         const modulesJson = (await modulesRes.json()) as ModulesFile;
         const workList = (await workRes.json()) as WorkplaceCard[];
